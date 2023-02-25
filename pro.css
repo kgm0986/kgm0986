@@ -1,0 +1,12 @@
+.p{
+    
+    position: relative;
+}
+.op{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.op:active{
+    opacity: 0;
+}
