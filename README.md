@@ -1,4 +1,10 @@
 ### Hi there 👋
+<div class="p" >
+        <img src="/KakaoTalk_20230225_134627917.jpg"></img>
+        <div class="op">
+             <img src="/KakaoTalk_20230225_134628363.jpg"></img> 
+        </div>
+    </div>
 
 <!--
 **kgm0986/kgm0986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
