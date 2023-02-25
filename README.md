@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div class="p" >
+<div class="p" style="position: relative;" >
         <img src="/KakaoTalk_20230225_134627917.jpg"></img>
-        <div class="op">
+        <div class="op" style="position: absolute; top: 0px; left: 0px;>
              <img src="/KakaoTalk_20230225_134628363.jpg"></img> 
         </div>
     </div>
